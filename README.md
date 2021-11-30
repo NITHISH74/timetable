@@ -134,6 +134,8 @@ httpd.serve_forever()
 # OUPUT
 ![image](https://user-images.githubusercontent.com/94164665/144058615-b37433c2-ea7a-4d7b-afb8-03cd9b3bbd7f.png)
 ![image](https://user-images.githubusercontent.com/94164665/144058641-73ae1a0b-a487-48a2-88b5-d298c2475731.png)
+![image](https://user-images.githubusercontent.com/94164665/144059646-26de6992-ed95-4218-8934-cc3ef2ced6a4.png)
+
 
 # RESULT
 The above program is shown my time table successfully.
