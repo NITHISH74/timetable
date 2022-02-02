@@ -14,7 +14,7 @@ Add your timetable.
 Execute the program.
 
 # CODE
-
+```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
@@ -130,6 +130,7 @@ server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running")
 httpd.serve_forever()
+```
 
 # OUPUT
 ![image](https://user-images.githubusercontent.com/94164665/144058615-b37433c2-ea7a-4d7b-afb8-03cd9b3bbd7f.png)
